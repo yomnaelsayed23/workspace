@@ -184,10 +184,10 @@ h2{
 
 }
 #time-container {
-  font-size: 3em;
-  color: #333;
-  background-color: #fff;
-  padding: 20px 40px;
+  font-size: 3em !important;
+  color: #333 !important;
+  background-color: #fff !important;
+  padding: 20px 40px !important;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
