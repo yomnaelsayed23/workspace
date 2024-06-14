@@ -1,5 +1,5 @@
 body{
-    background-image: url(—Pngtree—minimal\ geometric\ podium\ scene\ with_1203883.jpg);
+    background-color: #dfd5d5;
     background-position: center;
     background-size:cover;
     background-repeat: no-repeat;
@@ -195,7 +195,19 @@ h2{
   
   /* ******************************8888888888 */
 
+.table_background{
+  transform: translate(0%,20%);
+  margin: 0 40px;
 
+}
+table{
+  
+  /* border-radius: 37%; */
+  border: 1px solid black;
 
+}
+thead{
+  background-color: #bccdd9;
+}
 
   
